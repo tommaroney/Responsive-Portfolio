@@ -72,7 +72,7 @@ small {
 }
 
 header {
-    border-bottom: grey solid 1px;
+    border-bottom: 3px solid #cccccc;
     background-color: white;
 }
 
@@ -162,7 +162,7 @@ input[type=submit]:hover {
 
 .stretch {
     width: 100%;
-    border-bottom: 2px solid grey;
+    border-bottom: 3px solid #cccccc;
     margin: auto;
 }
 
@@ -281,12 +281,12 @@ img {
     }
 
     header h1 {
-        width: 30%;
+        width: 35%;
         margin-left: 2.5%;
     }
 
     nav {
-        width: 30%;
+        width: 35%;
         margin-right: 2.5%;
     }
     
@@ -301,8 +301,12 @@ img {
     }
 
     header h1 {
-        width: 25%;
+        width: 30%;
         margin-left: 5%;
+    }
+
+    nav {
+        width: 30%;
     }
 
     .container {
